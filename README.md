@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=깃허브%20test&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=깃허브%20테스트&desc=깃허브%20리드미%20연습&fontSize=90)
 
 
 # HI
@@ -40,6 +40,9 @@ print ("hi")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirumeow)](https://github.com/anuraghazra/github-readme-stats)
 
 
+- [ ] checkbox
+- [x] checkbox
+
 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
 ![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
@@ -48,4 +51,4 @@ print ("hi")
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flatsquare&logo=Serverless&logoColor=magenta)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
-![footer](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=footer&text=깃허브%20test&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=footer&text=깃허브%20test&fontSize=90)
