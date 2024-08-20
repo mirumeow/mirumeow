@@ -51,4 +51,4 @@ print ("hi")
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flatsquare&logo=Serverless&logoColor=magenta)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
-![footer](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=footer&text=깃허브%20test&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=footer&text=깃허브%20test&fontSize=90)
